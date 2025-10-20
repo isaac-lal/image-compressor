@@ -1,6 +1,6 @@
 # Image Compressor | Isaac Lal
 
-#### <u>Project created and authored by isaac-lal</u>
+#### Project created and authored by isaac-lal
 
 #### MIT License
 
